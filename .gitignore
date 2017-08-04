@@ -38,3 +38,7 @@ gradlew*
 
 # Mac
 .DS_Store
+
+# MXNet
+*.json
+*.params
