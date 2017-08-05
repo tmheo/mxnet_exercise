@@ -42,3 +42,4 @@ gradlew*
 # MXNet
 *.json
 *.params
+*.gz
